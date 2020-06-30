@@ -9,7 +9,7 @@ import static org.junit.Assert.*;
 public class noteTest {
     @Before
     public void setUp() throws Exception {
-        System.out.println("测试开始");
+        System.out.println("测试开始:");
     }
 
     @After
